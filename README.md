@@ -1,7 +1,7 @@
 MyPaint - React Native app for drawing
 
 1) Features
-   Drawing options: free hand, circle, square, change color
+   Drawing options: freehand, circle, line,  square, change color
 
 3) Screenshots
 
